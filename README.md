@@ -1,1 +1,1 @@
-# WatchFaceResaources
+# WatchFaceResources
